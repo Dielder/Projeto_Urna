@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Faculdade\3º Período\POO\Projeto Urna\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3324618591.index
+1370259870.index
