@@ -1,1 +1,1 @@
-Olá, aqui você encontra todos alguns dos meus projetos utilizando a linguagem java.
+Olá, aqui você encontra alguns dos meus projetos utilizando a linguagem java.
