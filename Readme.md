@@ -1,1 +1,1 @@
-Olá, aqui você encontra alguns dos meus projetos utilizando a linguagem java.
+Olá, aqui você encontra um projeto realizado em conjunto com um colega de turma da faculde, utilizando a liguagem java e alguns conceitos de Programação Orientada a Objetos. Apenas fizemos o funcionamento dela via console da IDE Eclipse.
